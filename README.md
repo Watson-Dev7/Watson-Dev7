@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Watson Ngoma 👋</h1>
+<h1 align="center">Hi, I'm Watson Quan Ngoma 👋</h1>
 
 <h3 align="center">💻 Computer Science Student at The Copperbelt University</h3>
 
